@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Banner" width="600" />
+<img src="assets/banner.png" alt="Banner" width="700" />
 
 # Hi 👋, I'm ZINEDDINE
 
